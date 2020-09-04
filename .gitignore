@@ -1,0 +1,18 @@
+# dirs
+DebugBuild/
+ReleaseBuild/
+.vscode/
+.vs/
+CMakeFiles/
+*.dir/
+**/Debug
+**/Release
+
+# files
+*.dll
+*.cmake
+imgui.ini
+*.vcxproj*
+*.sln
+CMakeCache.txt
+Profile.json
